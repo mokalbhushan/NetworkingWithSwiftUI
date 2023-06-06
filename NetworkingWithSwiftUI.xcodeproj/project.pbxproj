@@ -19,6 +19,7 @@
 		92B114D02A2F313600D7488F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		92B114D22A2F313700D7488F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92B114D52A2F313700D7488F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		92B114E02A2F4C0F00D7488F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		92B114CD2A2F313600D7488F /* NetworkingWithSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				92B114E02A2F4C0F00D7488F /* Info.plist */,
 				92B114CE2A2F313600D7488F /* NetworkingWithSwiftUIApp.swift */,
 				92B114D02A2F313600D7488F /* ContentView.swift */,
 				92B114D22A2F313700D7488F /* Assets.xcassets */,
@@ -269,6 +271,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"NetworkingWithSwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NetworkingWithSwiftUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -297,6 +300,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"NetworkingWithSwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NetworkingWithSwiftUI/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
